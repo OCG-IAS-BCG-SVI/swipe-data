@@ -1,6 +1,6 @@
 {
   "needsTutorial": false,
-  "manifestUrl": "https://github.com/OCG-IAS-BCG-SVI/swipe-data/blob/master/manifest.json",
+  "manifestUrl": "https://raw.githubusercontent.com/OCG-IAS-BCG-SVI/swipe-data/master/manifest.json",
   "manifestType": "json",
   "widgetType": "ImageSwipe",
   "widgetProperties": {
@@ -84,7 +84,7 @@
     "navbarVariant": "info"
   },
   "home": {
-    "title": "Swipes for Science ATOM Audit",
+    "title": "Swipes for Science ATOM",
     "tagline": "A citizen science game template ATOM",
     "backgroundUrl": "https://raw.githubusercontent.com/SwipesForScience/testConfig/master/images/SwipesForScience.svg?sanitize=true"
   },
